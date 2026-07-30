@@ -1,0 +1,7 @@
+hmda:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: hmda.duckdb
+      threads: 4

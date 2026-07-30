@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: stg_lar
+    description: One row per loan application record, typed and labelled.
+    columns:
+      - name: activity_year
+        description: HMDA reporting year.
+        tests:
+          - not_null
+          - accepted_values:
+              values: [2022, 2023, 2024]
+      - name: action_taken
+        description: What the lender did with the application.
+        tests:
+          - not_null
+      - name: lender_lei
+        description: Legal Entity Identifier of the reporting institution.
+        tests:
+          - not_null
+      - name: is_decisioned
+        description: >
+          True when the lender actually ruled on the application (originated,
+          approved-not-accepted, or denied). Excludes withdrawals, incomplete
+          files, and purchased loans.
+        tests:
+          - not_null
+      - name: loan_amount
+        tests:
+          - not_null

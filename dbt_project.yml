@@ -1,0 +1,14 @@
+name: hmda
+version: "1.0.0"
+profile: hmda
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  hmda:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

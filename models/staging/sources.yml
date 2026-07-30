@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: >
+      HMDA Loan Application Register extracts pulled from the CFPB/FFIEC Data
+      Browser, filtered to Ohio. Loaded verbatim by load_raw.py — all columns
+      land as VARCHAR and are cast in staging.
+    tables:
+      - name: lar
