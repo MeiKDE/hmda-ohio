@@ -26,17 +26,23 @@ CFPB Data Browser  →  DuckDB  →  dbt (staging → marts, tested)  →  BI / 
 | Race not available | 51,677 | 26.3% | $86k |
 
 A 14-point gap, and Black applicants do report lower median income — so the obvious hypothesis is
-that the gap is an income-mix effect. **It mostly isn't.** Holding income roughly constant by
-comparing applicants inside the same band:
+that the gap is an income-mix effect. **It isn't.** Comparing applicants *inside the same income
+band* (2024):
 
-| $50–100k income band, 2024 | Applications | Denial rate |
-|---|---:|---:|
-| White | 96,105 | **21.3%** |
-| Black or African American | 11,840 | **33.1%** |
-| Asian | 2,882 | 23.7% |
+| Income band | White | Black or African American | Ratio |
+|---|---:|---:|---:|
+| < $50k | 38.4% | 51.6% | 1.34 |
+| $50–100k | 21.3% | 33.1% | 1.55 |
+| $100–150k | 16.7% | 29.9% | 1.79 |
+| $150–250k | 13.9% | 27.0% | 1.94 |
+| $250k+ | **13.5%** | **26.0%** | **1.92** |
 
-The gap narrows from 14.3 points to 11.8 — so income mix accounts for roughly **one sixth** of it.
-The rest sits somewhere else.
+The gap does not close at any income level, and in relative terms it *widens* as income rises.
+Black applicants earning $250k or more are denied at roughly twice the rate of White applicants
+earning the same — and at a higher rate than White applicants in every income band except the
+lowest. Income mix explains part of the aggregate difference; it does not explain the disparity,
+which is present at every level of income and is proportionally largest where affordability
+should matter least.
 
 Where? The reported denial reasons point at credit history rather than affordability:
 
