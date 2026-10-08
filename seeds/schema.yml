@@ -1,0 +1,13 @@
+version: 2
+
+seeds:
+  - name: ohio_counties
+    description: Ohio county names by 5-digit FIPS code (Census 2020). Built by build_seeds.py.
+    columns:
+      - name: county_code
+        tests: [not_null, unique]
+  - name: lenders
+    description: Lender name by LEI, from the CFPB HMDA filer lists 2022–2024. Built by build_seeds.py.
+    columns:
+      - name: lender_lei
+        tests: [not_null, unique]

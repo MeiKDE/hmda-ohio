@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: mart_county_trend
+    columns:
+      - name: county_name
+        description: Every county in the file must resolve to a name, or the map shows a blank.
+        tests: [not_null]
+  - name: mart_lender_summary
+    columns:
+      - name: lender_name
+        tests: [not_null]

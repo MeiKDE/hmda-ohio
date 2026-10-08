@@ -9,3 +9,4 @@ __pycache__/
 
 # local working files
 practice/
+dashboard/*.xlsx

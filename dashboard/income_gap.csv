@@ -1,0 +1,96 @@
+year,band_order,income_band,race,decisioned_applications,denials,denial_rate_pct
+2022,1,< $50k,2 or more minority races,175,92,52.57
+2022,1,< $50k,American Indian or Alaska Native,453,238,52.54
+2022,1,< $50k,Asian,1509,554,36.71
+2022,1,< $50k,Black or African American,9907,4241,42.81
+2022,1,< $50k,Joint,430,167,38.84
+2022,1,< $50k,Native Hawaiian or Other Pacific Islander,143,55,38.46
+2022,1,< $50k,Race Not Available,11886,5064,42.6
+2022,1,< $50k,White,70457,21863,31.03
+2022,2,$50–100k,2 or more minority races,223,84,37.67
+2022,2,$50–100k,American Indian or Alaska Native,529,202,38.19
+2022,2,$50–100k,Asian,3559,702,19.72
+2022,2,$50–100k,Black or African American,12904,4007,31.05
+2022,2,$50–100k,Joint,1643,338,20.57
+2022,2,$50–100k,Native Hawaiian or Other Pacific Islander,192,64,33.33
+2022,2,$50–100k,Race Not Available,20323,5315,26.15
+2022,2,$50–100k,White,125383,23501,18.74
+2022,3,$100–150k,American Indian or Alaska Native,161,58,36.02
+2022,3,$100–150k,Asian,2650,412,15.55
+2022,3,$100–150k,Black or African American,4234,1150,27.16
+2022,3,$100–150k,Joint,1452,224,15.43
+2022,3,$100–150k,Race Not Available,9969,2029,20.35
+2022,3,$100–150k,White,58907,8623,14.64
+2022,4,$150–250k,Asian,1831,251,13.71
+2022,4,$150–250k,Black or African American,1753,454,25.9
+2022,4,$150–250k,Joint,1145,158,13.8
+2022,4,$150–250k,Race Not Available,6288,1024,16.28
+2022,4,$150–250k,White,35843,4515,12.6
+2022,5,$250k+,Asian,1132,175,15.46
+2022,5,$250k+,Black or African American,620,165,26.61
+2022,5,$250k+,Joint,462,62,13.42
+2022,5,$250k+,Race Not Available,2851,416,14.59
+2022,5,$250k+,White,14300,1829,12.79
+2023,1,< $50k,2 or more minority races,150,88,58.67
+2023,1,< $50k,American Indian or Alaska Native,326,181,55.52
+2023,1,< $50k,Asian,934,437,46.79
+2023,1,< $50k,Black or African American,6612,3216,48.64
+2023,1,< $50k,Joint,235,122,51.91
+2023,1,< $50k,Native Hawaiian or Other Pacific Islander,101,47,46.53
+2023,1,< $50k,Race Not Available,7695,3499,45.47
+2023,1,< $50k,White,43013,16089,37.4
+2023,2,$50–100k,2 or more minority races,179,83,46.37
+2023,2,$50–100k,American Indian or Alaska Native,427,154,36.07
+2023,2,$50–100k,Asian,2577,568,22.04
+2023,2,$50–100k,Black or African American,10764,3618,33.61
+2023,2,$50–100k,Joint,1312,312,23.78
+2023,2,$50–100k,Native Hawaiian or Other Pacific Islander,152,43,28.29
+2023,2,$50–100k,Race Not Available,15192,4239,27.9
+2023,2,$50–100k,White,93034,20261,21.78
+2023,3,$100–150k,American Indian or Alaska Native,131,43,32.82
+2023,3,$100–150k,Asian,2187,400,18.29
+2023,3,$100–150k,Black or African American,3833,1101,28.72
+2023,3,$100–150k,Joint,1234,237,19.21
+2023,3,$100–150k,Race Not Available,7683,1660,21.61
+2023,3,$100–150k,White,47218,8083,17.12
+2023,4,$150–250k,Asian,1737,256,14.74
+2023,4,$150–250k,Black or African American,1669,480,28.76
+2023,4,$150–250k,Joint,1052,152,14.45
+2023,4,$150–250k,Race Not Available,5229,938,17.94
+2023,4,$150–250k,White,29639,4128,13.93
+2023,5,$250k+,Asian,1042,149,14.3
+2023,5,$250k+,Black or African American,577,191,33.1
+2023,5,$250k+,Joint,399,42,10.53
+2023,5,$250k+,Race Not Available,2431,366,15.06
+2023,5,$250k+,White,11592,1561,13.47
+2024,1,< $50k,2 or more minority races,156,104,66.67
+2024,1,< $50k,American Indian or Alaska Native,333,172,51.65
+2024,1,< $50k,Asian,1115,508,45.56
+2024,1,< $50k,Black or African American,6566,3387,51.58
+2024,1,< $50k,Joint,273,143,52.38
+2024,1,< $50k,Race Not Available,7521,3699,49.18
+2024,1,< $50k,White,41979,16129,38.42
+2024,2,$50–100k,2 or more minority races,211,78,36.97
+2024,2,$50–100k,American Indian or Alaska Native,485,175,36.08
+2024,2,$50–100k,Asian,2882,684,23.73
+2024,2,$50–100k,Black or African American,11840,3915,33.07
+2024,2,$50–100k,Joint,1290,281,21.78
+2024,2,$50–100k,Native Hawaiian or Other Pacific Islander,139,41,29.5
+2024,2,$50–100k,Race Not Available,15189,4516,29.73
+2024,2,$50–100k,White,96105,20462,21.29
+2024,3,$100–150k,American Indian or Alaska Native,158,44,27.85
+2024,3,$100–150k,Asian,2369,430,18.15
+2024,3,$100–150k,Black or African American,4299,1287,29.94
+2024,3,$100–150k,Joint,1278,201,15.73
+2024,3,$100–150k,Race Not Available,7838,1775,22.65
+2024,3,$100–150k,White,50749,8483,16.72
+2024,4,$150–250k,Asian,1993,303,15.2
+2024,4,$150–250k,Black or African American,1908,516,27.04
+2024,4,$150–250k,Joint,1090,154,14.13
+2024,4,$150–250k,Race Not Available,5732,1129,19.7
+2024,4,$150–250k,White,34200,4760,13.92
+2024,5,$250k+,Asian,1253,207,16.52
+2024,5,$250k+,Black or African American,723,188,26.0
+2024,5,$250k+,Joint,527,46,8.73
+2024,5,$250k+,Race Not Available,2746,485,17.66
+2024,5,$250k+,White,13931,1884,13.52
