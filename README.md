@@ -7,6 +7,8 @@ The question it sets out to answer: **how much of the denial-rate gap between ra
 explained by income?** The short answer, for Ohio, is *very little* — and that's the finding
 this repository is organised around.
 
+**Interactive dashboard:** [Ohio Mortgage Denials 2022–2024 on Tableau Public](https://public.tableau.com/app/profile/mei.data.analyst.zhang/viz/OhioMortgageDenials20222024/Dashboard1). Income-band gap, denial reasons, county map and lender comparison.
+
 ```
 CFPB Data Browser  →  DuckDB  →  dbt (staging → marts, tested)  →  BI / notebook
 ```
