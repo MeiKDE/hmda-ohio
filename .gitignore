@@ -10,3 +10,7 @@ __pycache__/
 # local working files
 practice/
 dashboard/*.xlsx
+
+# never commit personal data
+private/
+**/private/
